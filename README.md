@@ -1,8 +1,7 @@
-# Node Hello World
+# Nodejs Hello World
 
 Simple node.js app that servers "A Monk in Cloud"
-
-Great for testing simple deployments on Cloud
+for testing simple deployments on Cloud
 
 ## Step 1: Install NodeJS and NPM using nvm
 Install node version manager (nvm) by typing the following at the command line.
@@ -48,13 +47,13 @@ This command will print the git version in the terminal.
 Run below command to clone the code repository from Github:
 
 ```bash
-git clone <url>
+git clone https://github.com/shub0618/Sample_Nodejs_on_Ec2.git
 ```
 
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd Sample_Nodejs_on_Ec2
 npm install
 ```
 
